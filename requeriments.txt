@@ -1,3 +1,2 @@
-python-telegram-bot
-matplotlib
-python-dateutil
+pyTelegramBotAPI
+Flask
